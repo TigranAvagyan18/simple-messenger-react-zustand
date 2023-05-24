@@ -4,7 +4,7 @@ const ChatInfo = () => {
 	return (
 		<div className="flex flex-none flex-row items-center justify-between px-6 py-4 shadow">
 			<div className="flex">
-				<Avatar src="" size="md" />
+				<Avatar src="" size="lg" />
 				<div className="text-sm">
 					<p className="font-bold">Scarlett Johansson</p>
 					<p>Active 1h ago</p>
